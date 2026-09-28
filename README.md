@@ -261,7 +261,7 @@ automatically selects the nearest model by age (in days).
 If you use this pipeline, please cite:
 
 ```
-[Your citation in the journal's preferred format]
+Manuscript in preparation
 ```
 
 ---
